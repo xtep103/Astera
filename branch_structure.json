@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/update-proposal-expiry-secs",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/update-proposal-expiry-secs": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/update-proposal-expiry-secs",
+    "origin"
+  ]
+}
